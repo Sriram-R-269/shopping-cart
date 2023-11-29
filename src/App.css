@@ -1,0 +1,88 @@
+.navbar-brand{
+    margin-left: 5rem;
+    font-size: 26px;    
+    padding: 9px;
+}
+.navbar-nav{
+    margin-left: 2rem;
+    font-size: 20px;
+}
+.cart-comp{
+    display: flex;
+    
+}
+.cart{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-right: 8rem;
+    display: flex;
+}
+.badge{
+    font-size: 20px;
+    display: flex;
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+    padding: 2px;
+    margin-bottom: 0px;
+}
+.container-fluid{
+    text-align: center;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding: 5.5rem;
+}
+.container1{
+    font-weight: bolder;
+    font-size: 56px;
+}
+.container2{
+    font-weight: lighter;
+    font-size: 22px;
+}
+.cart-area{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+    margin: 5rem;
+    justify-content: center;
+}
+.card-component{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    height: 480px;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: stretch;
+    padding: 5px;
+    text-align: center;
+}
+.component1{
+    padding-top: 5px;
+}
+.component2{
+    padding: 5px;
+    font-weight: lighter;
+}
+img{
+    object-fit: fill;
+    border-radius: 5px;
+    padding-bottom: 1rem;
+}
+
+button{
+    width: max-content;
+    margin: 0 auto;
+    margin-top: 2rem;
+    border: 1px solid;
+    border-radius: 8px;
+    font-size: 22px;
+    justify-content: center;
+    height: 3rem;
+    padding-left: 15px;
+    padding-right: 15px;
+}
